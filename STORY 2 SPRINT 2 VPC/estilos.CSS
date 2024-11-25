@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: orange;
+}
+
+a {
+    color: blue;
+}
+
+body {
+    background-color: rgb(97, 97, 97);
+}
+
+p {
+    color: orange;
+}
+
+li {
+    color:orange;
+}
+
+li#p2 {
+    color: blue;
+}
